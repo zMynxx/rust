@@ -30,7 +30,7 @@ jobs:
       - name: Run sccache-cache
         uses: mozilla-actions/sccache-action@v0.0.2
         with:
-            version: "v0.3.3"
+          version: v0.3.3
 
       - name: Run build
         uses: actions-rs/cargo@v1
