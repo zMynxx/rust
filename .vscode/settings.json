@@ -1,0 +1,3 @@
+{
+  "rust-analyzer.linkedProjects": ["./cli_tool/Cargo.toml"]
+}
